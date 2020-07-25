@@ -56,7 +56,7 @@ const (
 var author string = "Rodrigo G. Higuera M. <rodrigoghm@gmail.com>"
 var fechaSystem, Y string
 var versionFile string
-var PathFile string = "/home/higuerar/go/src/crudgopg/"
+var PathFile string = "/home/higuerar/go/src/tallergolang/"
 var nameFile string
 var cl int = 0
 
